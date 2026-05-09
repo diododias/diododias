@@ -8,6 +8,7 @@ Backend & AWS Specialist | 3x AWS Certified
 - Led company-wide technical initiatives, defining engineering standards, best practices, and long-term technical vision.
 - Influenced technical strategy and roadmaps, collaborating with executives and cross-functional stakeholders.
 - Fostered a culture of technical excellence, continuous improvement, and knowledge sharing.
+- Promoted the adoption of Artificial Intelligence in software development, incorporating AI-driven SDD (Software Design Doc) practices to boost efficiency, quality, and innovation.
 - Active in technical communities.
 
 ## 🏆 Certifications
